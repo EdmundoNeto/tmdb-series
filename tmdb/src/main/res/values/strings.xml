@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_series_found">Nenhuma série foi encontrada :(</string>
+
+    <string name="refresh_error_button">Recarregar</string>
+    <string name="error_title">Ooooops</string>
+    <string name="error_body">Esta se sentindo perdido e desconectado, como se estivesse em uma ilha deserta? Siga o conselho, fique calmo, acenda uma luz e continue regarregando.</string>
+    <string name="series_activity">Series</string>
+    <string name="first_appearence">Estreia: %s</string>
+    <string name="vote_rate">Média de votos: %s</string>
+</resources>
